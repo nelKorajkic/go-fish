@@ -1,1 +1,1 @@
-# go-fish
+A command line based game of Go Fish

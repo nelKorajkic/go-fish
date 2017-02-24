@@ -1,0 +1,22 @@
+Define a system for each and every card. (Card object)  --  DONE 2/2/17 Nel
+Generate an ordered deck.  -- DONE 2/5/17 Nel
+Generate a random order for the deck  -- DONE 2/5/17 Nel
+Each player draws 7. -- DONE 2/5/17 Nel
+Draw cards for the player and computer. -- DONE 2/5/17 Nel
+Display the cards for the user. (not the computer) -- DONE 2/5/17 Nel
+Develope a system for asking the computer and user for cards. -- DONE 2/6/17 Nel
+Check the hand for the asked card. -- DONE 2/6/17 Nel
+Add the card to the players hand if there is a match. -- DONE 2/6/17 Nel
+If none are present draw a new card THEN check again.
+If none are still present next players turn.
+prompt next player to ask.
+Display cards on the table? until they are a book (4 of a kind)
+Maybe have a function for looking at all cards on table and/or completed sets so you dont ask for a thing that's completed.
+
+Set difficulty level for the computer.
+1 Easy -- DONE 2/11/17 Aaron
+2 Hard -- DONE 2/9/17 Cuong
+Use the game theory algorithms he mentioned for the computer's difficulty levels. -- DONE 2/9/17 Cuong
+3 Devious -- DONE 2/9/17 Ramy
+
+Make the text printed consistent across all difficulties -- DONE 2/14/17 Nel
